@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1524227979 source:d:\projects\codeblocks\c与lua互相调用\main.c
+	<stdio.h>
+	<stdlib.h>
+	"c_call_lua.h"
+	"lua_call_c.h"
+
+1524202794 d:\projects\codeblocks\c与lua互相调用\header\add.h
+
+1524204293 source:d:\projects\codeblocks\c与lua互相调用\add.c
+	<stdio.h>
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+	"add.h"
+
+1482385880 d:\projects\codeblocks\c与lua互相调用\lua-5.3.4_win64_dllw4_lib\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1498458942 d:\projects\codeblocks\c与lua互相调用\lua-5.3.4_win64_dllw4_lib\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1484205266 d:\projects\codeblocks\c与lua互相调用\lua-5.3.4_win64_dllw4_lib\include\lualib.h
+	"lua.h"
+
+1481000070 d:\projects\codeblocks\c与lua互相调用\lua-5.3.4_win64_dllw4_lib\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1524202794 d:\projects\codeblocks\c与lua互相调用\add.h
+
+1482385880 d:\projects\codeblocks\c与lua互相调用\lua-5.3.4_win32_dll10_lib\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1498458942 d:\projects\codeblocks\c与lua互相调用\lua-5.3.4_win32_dll10_lib\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1484205266 d:\projects\codeblocks\c与lua互相调用\lua-5.3.4_win32_dll10_lib\include\lualib.h
+	"lua.h"
+
+1481000070 d:\projects\codeblocks\c与lua互相调用\lua-5.3.4_win32_dll10_lib\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1524225114 d:\projects\codeblocks\c与lua互相调用\hello.h
+
+1524225932 d:\projects\codeblocks\c与lua互相调用\say.h
+
+1524226054 d:\projects\codeblocks\c与lua互相调用\test.h
+
+1524226099 source:d:\projects\codeblocks\c与lua互相调用\test.c
+	"test.h"
+
+1524202794 source:d:\projects\codeblocks\c与lua互相调用\add.h
+
+1524226054 source:d:\projects\codeblocks\c与lua互相调用\test.h
+
+1524227658 source:d:\projects\codeblocks\c与lua互相调用\lua_call_c.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+	"lua_call_c.h"
+
+1524227405 d:\projects\codeblocks\c与lua互相调用\lua_call_c.h
+
+1524227699 d:\projects\codeblocks\c与lua互相调用\c_call_lua.h
+
+1524227932 source:d:\projects\codeblocks\c与lua互相调用\c_call_lua.c
+	<stdio.h>
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+	"c_call_lua.h"
+
